@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cristian-ST07
+- 👋 Hola, Soy @Cristian-ST07
 
 🚀 **Apasionado por la tecnología, el cloud computing y el desarrollo web.**  
 Siempre en constante aprendizaje y en busca de nuevas oportunidades para mejorar mis habilidades.  
@@ -28,6 +28,4 @@ Siempre en constante aprendizaje y en busca de nuevas oportunidades para mejorar
 💬 ¡Siempre abierto a colaborar en proyectos interesantes!  
 
 ---
-
-Este README te ayudará a presentarte mejor en GitHub. Solo necesitas crear un repositorio con el mismo nombre de tu usuario y agregar este archivo `README.md`. 🚀
 
